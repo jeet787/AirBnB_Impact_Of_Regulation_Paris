@@ -5,7 +5,7 @@ Airbnb is a global online marketplace connecting hosts with travelers seeking sh
 
 ## 🔗 Project Notebook
 
-Explore the full analysis on [AirBnB Impact Of Regulations](https://www.kaggle.com/code/naynishb/airbnb-project-1)
+Explore the full analysis on [AirBnB Impact Of Regulations](https://github.com/jeet787/AirBnB_Impact_Of_Regulation_Paris/blob/main/AirbnbProject.ipynb)
 
 <img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width="1000">
 
