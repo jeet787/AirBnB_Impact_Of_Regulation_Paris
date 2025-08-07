@@ -7,13 +7,20 @@ Airbnb is a global online marketplace connecting hosts with travelers seeking sh
 
 Explore the full analysis on [AirBnB Impact Of Regulations](https://github.com/jeet787/AirBnB_Impact_Of_Regulation_Paris/blob/main/AirbnbProject.ipynb)
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width="1000">
+<img src="https://github.com/jeet787/AirBnB_Impact_Of_Regulation_Paris/blob/main/AirBnB%20Image.png" width="1000">
 
-## 📦 Dataset Overview
+<h3>💽 Overview</h3>
 
-This dataset includes over **250,000 listings** across **10 major cities**, along with **5 million+ guest reviews**. It offers rich insights into host practices, pricing trends, and guest experiences.
+This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
 
-**Source:** [Airbnb Listings & Reviews Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+## 📦 Dataset 
+
+The dataset includes the following files:
+- listings.csv
+Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
+- reviews.csv
+Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
+- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 ## 📊 Key Insights
 
